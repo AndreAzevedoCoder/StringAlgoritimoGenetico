@@ -1,0 +1,11 @@
+/home/satva/Documentos/AlgoritimoGeneticoString/bin/Debug/netcoreapp3.0/AlgoritimoGeneticoString
+/home/satva/Documentos/AlgoritimoGeneticoString/bin/Debug/netcoreapp3.0/AlgoritimoGeneticoString.deps.json
+/home/satva/Documentos/AlgoritimoGeneticoString/bin/Debug/netcoreapp3.0/AlgoritimoGeneticoString.runtimeconfig.json
+/home/satva/Documentos/AlgoritimoGeneticoString/bin/Debug/netcoreapp3.0/AlgoritimoGeneticoString.runtimeconfig.dev.json
+/home/satva/Documentos/AlgoritimoGeneticoString/bin/Debug/netcoreapp3.0/AlgoritimoGeneticoString.dll
+/home/satva/Documentos/AlgoritimoGeneticoString/bin/Debug/netcoreapp3.0/AlgoritimoGeneticoString.pdb
+/home/satva/Documentos/AlgoritimoGeneticoString/obj/Debug/netcoreapp3.0/AlgoritimoGeneticoString.csprojAssemblyReference.cache
+/home/satva/Documentos/AlgoritimoGeneticoString/obj/Debug/netcoreapp3.0/AlgoritimoGeneticoString.AssemblyInfoInputs.cache
+/home/satva/Documentos/AlgoritimoGeneticoString/obj/Debug/netcoreapp3.0/AlgoritimoGeneticoString.AssemblyInfo.cs
+/home/satva/Documentos/AlgoritimoGeneticoString/obj/Debug/netcoreapp3.0/AlgoritimoGeneticoString.dll
+/home/satva/Documentos/AlgoritimoGeneticoString/obj/Debug/netcoreapp3.0/AlgoritimoGeneticoString.pdb
